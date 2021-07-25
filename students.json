@@ -1,0 +1,64 @@
+{
+    "students": [{
+            "firstName": "Samin",
+            "last name": null,
+            "age": 20,
+            "cgpa": 3.00,
+            "isRegistered": true,
+            "language": ["bangla", "english"],
+            "friends": [{
+                "name": "abir",
+                "age": 19
+            }, {
+                "name": "siyam",
+                "age": 21
+            }]
+        },
+        {
+            "first name": "soniya",
+            "last name": null,
+            "age": 24,
+            "cgpa": 3.90,
+            "isRegistered": false,
+            "language": ["bangla", "english", "hindi"],
+            "friends": [{
+                "name": "israt",
+                "age": 23
+            }, {
+                "name": "saima",
+                "age": 25
+            }]
+        }
+    ],
+    "teachers": [{
+            "firstName": "masud",
+            "last name": null,
+            "age": 35,
+            "cgpa": 3.20,
+            "isRegistered": true,
+            "language": ["bangla", "english", "arabi"],
+            "friends": [{
+                "name": "rana",
+                "age": 34
+            }, {
+                "name": "roton",
+                "age": 36
+            }]
+        },
+        {
+            "first name": "hridoy",
+            "last name": null,
+            "age": 28,
+            "cgpa": 4.92,
+            "isRegistered": false,
+            "language": ["bangla", "english", "hindi"],
+            "friends": [{
+                "name": "sany",
+                "age": 29
+            }, {
+                "name": "monjurul",
+                "age": 30
+            }]
+        }
+    ]
+}
